@@ -1,0 +1,11 @@
+#Modifying
+student["age"]=19
+print(student)
+
+#Adding
+student["name"]="Madhu Shekar"
+print(student)
+
+#Removing
+del student["name"]
+print(student)
